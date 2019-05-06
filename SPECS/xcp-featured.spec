@@ -7,6 +7,7 @@ License:        ISC
 URL:            https://github.com/xcp-ng/xcp-featured
 Source0:        https://github.com/xcp-ng/xcp-featured/archive/v%{version}/xcp-featured-%{version}.tar.gz
 Source1:        v6d.service
+Patch0:         test.patch
 BuildRequires:  systemd-devel
 BuildRequires:  xs-opam-repo
 BuildRequires:  ocaml-xcp-idl-devel

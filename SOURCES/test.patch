@@ -1,0 +1,13 @@
+diff --git a/bin/jbuild b/bin/jbuild
+index ddafe43..0c35f0c 100644
+--- a/bin/jbuild
++++ b/bin/jbuild
+@@ -12,7 +12,7 @@
+   (flags (:standard -safe-string))
+   (libraries (systemd
+               xapi-types
+-              xcp.v6)
++              xapi-idl.v6)
+   )
+  )
+ )
