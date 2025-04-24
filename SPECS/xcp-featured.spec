@@ -11,6 +11,7 @@ BuildRequires:  systemd-devel
 BuildRequires:  xs-opam-repo
 BuildRequires:  xapi-idl-devel
 BuildRequires:  xapi-client-devel
+Patch1:         21bed213f464b8f2c393fc3fa69030df6772b2b7.patch
 
 %{?systemd_requires}
 
