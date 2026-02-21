@@ -1,6 +1,6 @@
 Name:           xcp-featured
 Version:        1.1.8
-Release:        6%{?dist}
+Release:        6~XCPNG2710.2%{?dist}
 Summary:        XCP-ng feature daemon
 Group:          System/Hypervisor
 License:        ISC
