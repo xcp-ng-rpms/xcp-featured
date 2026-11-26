@@ -1,6 +1,6 @@
 Name:           xcp-featured
 Version:        1.2.2
-Release:        1%{?dist}
+Release:        1~yd.2%{?dist}
 Summary:        XCP-ng feature daemon
 Group:          System/Hypervisor
 License:        ISC
